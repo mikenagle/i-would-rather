@@ -92,7 +92,7 @@ var questions = [
     {
         id: 19,
         option1: 'Have no elbows',
-        option2: 'Have no knees
+        option2: 'Have no knees',
     },   
     {
         id: 20,

@@ -164,89 +164,89 @@ var questions = [
         option1: 'be in prison for five years in solitary confinement',
         option2: 'not ever go to prison and not ever become rich?'
     },   
-//    {
-//        id: 34,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },   
-//    {
-//        id: 35,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },   
-//    {
-//        id: 36,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },   
-//    {
-//        id: 37,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 38,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 39,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 40,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 41,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 42,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 43,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 44,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 45,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 46,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 47,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 48,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 49,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
-//    {
-//        id: 50,
-//        option1: 'Be in the real-life version of \"American Horror Story\"',
-//        option2: 'Be in the real-life version of \"The Walking Dead\"?'
-//    },
+    {
+        id: 34,
+        option1: 'wear a snow suit in the desert"',
+        option2: 'be naked in Antarctica?'
+    },   
+    {
+        id: 35,
+        option1: 'change the past',
+        option2: 'be able to see into the future?'
+    },   
+    {
+        id: 36,
+        option1: 'Be hunted by people',
+        option2: 'hunt people?'
+    },   
+    {
+        id: 37,
+        option1: 'Have a personal chef',
+        option2: 'Have a personal masseuse?'
+    },
+    {
+        id: 38,
+        option1: 'Never be able to feel emotions',
+        option2: 'Never be able to express emotions?'
+    },
+    {
+        id: 39,
+        option1: 'Be naked all the time',
+        option2: 'never be able to leave your home?'
+    },
+    {
+        id: 40,
+        option1: 'Ride in a hovercraft',
+        option2: 'ride in a hot air balloon?'
+    },
+    {
+        id: 41,
+        option1: 'Have x-ray vision',
+        option2: 'have laser vision?'
+    },
+    {
+        id: 42,
+        option1: 'Be a cat',
+        option2: 'Be a dog?'
+    },
+    {
+        id: 43,
+        option1: 'be able to fly',
+        option2: 'Be able to read minds?'
+    },
+    {
+        id: 44,
+        option1: 'know the date of your death',
+        option2: 'know the cause of your death'
+    },
+    {
+        id: 45,
+        option1: 'have more time',
+        option2: 'have more money'
+    },
+    {
+        id: 46,
+        option1: 'Be the most intelligent person alive',
+        option2: 'Be the most beautiful person alive'
+    },
+    {
+        id: 47,
+        option1: 'have piercings',
+        option2: 'have tattoos?'
+    },
+    {
+        id: 48,
+        option1: 'have a rewind button on your life',
+        option2: 'have a pause button?'
+    },
+    {
+        id: 49,
+        option1: 'receive one billion pounds',
+        option2: 'have £10,000 go to 100,000 poor families in the 3rd world?'
+    },
+    {
+        id: 50,
+        option1: 'Be able to speak every language',
+        option2: 'Be able to talk to animals?'
+    },
 ]
